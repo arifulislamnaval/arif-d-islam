@@ -57,7 +57,7 @@ Experienced in leading multidisciplinary teams and resolving complex technical c
 | Project | Client | Status | Primary Responsibility |
 |---------|--------|:------:|------------------------|
 | [5 × Patrol Craft](https://github.com/arifulislamnaval/patrolcraft) & [2 × Large Patrol Craft](https://github.com/arifulislamnaval/largepc) | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
-| 2 × 60T BP ASD Tug Boats | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
+| [2 × 60T BP ASD Tug Boats](https://github.com/arifulislamnaval/submarinetug) | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
 | 2 × Hydrographic & 3 × Diving Vessels | Bangladesh Navy | ✅ Delivered | Structural Detailed Design |
 | 3 × Landing Craft Tanks (LCTs) | Bangladesh Navy | 🚧 Ongoing | Structural Detailed Design |
 | 6 × High-Speed Boats | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis |
