@@ -61,7 +61,7 @@ Experienced in leading multidisciplinary teams and resolving complex technical c
 | [2 × Hydrographic](https://github.com/arifulislamnaval/hydrosurvey) & [3 × Diving Vessels](https://github.com/arifulislamnaval/divingboatbn) | Bangladesh Navy | ✅ Delivered | Structural Detailed Design |
 | [3 × Landing Craft Tanks (LCTs)](https://github.com/arifulislamnaval/lctbn) | Bangladesh Navy | 🚧 Ongoing | Structural Detailed Design |
 | [6 × High-Speed Boats](https://github.com/arifulislamnaval/hsbbcg) | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis |
-| [1 × Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG) & [3 × Patrol Vessels](https://github.com/arifulislamnaval/ipvbcg | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis & Structural Detailed Design |
+| [1 × Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG) & [3 × Patrol Vessels](https://github.com/arifulislamnaval/ipvbcg) | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis & Structural Detailed Design |
 | 2 × 60T BP ASD Tug Boats | Bangladesh Coast Guard | ✅ Delivered | Structural Detailed Design |
 | 2 × Diving Boats & 2 × Ferry Boats | Bangladesh Coast Guard | ✅ Delivered | Structural Review & Class Compliance |
 | 2 × 70T BP ASD Tug Boats | Payra Port Authority | 🚧 Ongoing | Structural Detailed Design |
